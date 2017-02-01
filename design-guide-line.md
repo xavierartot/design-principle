@@ -79,19 +79,60 @@
 ### Practice, Practice, Practice 
 
 
+## complementary color
+
+  1. use a color wheel to choose your color. 
+  2. ex: [complementary-wheel1.jpg](complementary-wheel1.jpg)
+  2. ex: [colorwheel-ultimate.png](colorwheel-ultimate.png)
 
 
+## typography principle
+
+#### size
+  1. font-size in body text must to be between 15px and 25px
+  2. headline: 32px to 60px, for the big headline change the bold to light, 100, 200
+  3. line spacing: line-height: 120% to 150% is easy to read
+  4. 45 to 90 characters per line, example 78 is good
+#### Fonts
+
+|  sans serif        |     serif        |                         
+|:------------------:|:----------------:|           
+|  Lato              |    Cardo         |                                                                              
+|  Raleway           |    Meraiweather  |           
+|  Monterrat         |    PT serif      |           
+|  PT Sans           |                  |           
+|  Robotto           |                  |           
 
 
+## image
+
+#### image on top with text on top
+
+#### Heading and text
+1. keep them grouped together with not to much line-height between them.
+  - they need to look like a unit.
+2. Overlay the image with black to see the white heading better,
+with heavey font(Bold) for the text.
+3. We can use other overlay colors or gradient.
+4. Put your text in a box with opacity or solid color
+  - Put your text in a box choose the box color goes with the image and some opacity.
+  - Use the color wheel for the boxes and font color.
+5. Blur the image
+   - Photo with focus, put the text on the blurd part(out focus)
+6. The floor fade   
+   -  ex with a bottom black with white text, look at the image example
 
 
+## spacing and layout
 
+   - example bad page with the smile magic original
+   - Put whitespace between your elments
+   - Put whitespace between your groups of elements
+   - Put whitespace between your site's section
+   - But don't exagerate
 
+## terminolgy
 
-
-
-
-
-
-
-
+- readability: I wnat to do this fade for readability
+- whitespace: means the empty space
+- content: all the text and image
